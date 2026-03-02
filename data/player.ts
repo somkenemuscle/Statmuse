@@ -1,0 +1,32 @@
+import { Player } from "@/types/player"
+
+export const players: Player[] = [
+  { id: "1", name: "Jeffrey", position: "CB", image: "/face.png", goals: 0, assists: 0, chances: 0, dribbles: 0, duels: 25, interceptions: 20, cleanSheets: 0, distanceCovered: 30,chancesMissed: 0 },
+  { id: "2", name: "Jordan", position: "RB", image: "/face.png", goals: 0, assists: 0, chances: 2, dribbles: 0, duels: 10, interceptions: 12, cleanSheets: 0, distanceCovered: 33,chancesMissed: 0 },
+  { id: "3", name: "IK Grand", position: "CB", image: "/face.png", goals: 0, assists: 0, chances: 0, dribbles: 0, duels: 5, interceptions: 5, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "4", name: "Brown", position: "LB", image: "/face.png", goals: 0, assists: 0, chances: 0, dribbles: 1, duels: 4, interceptions: 4, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "5", name: "Israel", position: "RB", image: "/face.png", goals: 0, assists: 0, chances: 0, dribbles: 0, duels: 15, interceptions: 8, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "6", name: "Joe", position: "DM", image: "/face.png", goals: 2, assists: 0, chances: 5, dribbles: 3, duels: 15, interceptions: 20, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "7", name: "Fair Michael", position: "AM", image: "/face.png", goals: 1, assists: 3, chances: 9, dribbles: 10, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 2 },
+  { id: "8", name: "Clintoma", position: "AM", image: "/face.png", goals: 1, assists: 1, chances: 0, dribbles: 12, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "9", name: "Chuks", position: "RW", image: "/face.png", goals: 0, assists: 2, chances: 0, dribbles: 3, duels: 2, interceptions: 4, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "10", name: "Somkene", position: "LW", image: "/face.png", goals: 1, assists: 2, chances: 11, dribbles: 15, duels: 5, interceptions: 10, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "11", name: "Bayo", position: "ST", image: "/face.png", goals: 1, assists: 4, chances: 8, dribbles: 5, duels: 1, interceptions: 5, cleanSheets: 0, distanceCovered: 0,chancesMissed: 7 },
+  { id: "12", name: "Palazoo", position: "ST", image: "/face.png", goals: 2, assists: 0, chances: 0, dribbles: 0, duels: 7, interceptions: 10, cleanSheets: 0, distanceCovered: 0,chancesMissed: 3 },
+  { id: "13", name: "Fadululahi", position: "CB", image: "/face.png", goals: 0, assists: 0, chances: 0, dribbles: 0, duels: 15, interceptions: 13, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "14", name: "Chudi", position: "CB", image: "/face.png", goals: 0, assists: 0, chances: 0, dribbles: 5, duels: 4, interceptions: 8, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "15", name: "Molabo", position: "LB", image: "/face.png", goals: 1, assists: 0, chances: 0, dribbles: 6, duels: 5, interceptions: 8, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "16", name: "Kingsley", position: "RB", image: "/face.png", goals: 0, assists: 0, chances: 4, dribbles: 4, duels: 5, interceptions: 4, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "17", name: "Izzyace", position: "AM", image: "/face.png", goals: 6, assists: 0, chances: 10, dribbles: 4, duels: 5, interceptions: 9, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "18", name: "Debayo", position: "DM", image: "/face.png", goals: 0, assists: 0, chances: 9, dribbles: 4, duels: 2, interceptions: 11, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "19", name: "Dark Michael", position: "RW", image: "/face.png", goals: 0, assists: 0, chances: 4, dribbles: 3, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 1 },
+  { id: "20", name: "Joseph", position: "LW", image: "/face.png", goals: 2, assists: 1, chances: 2, dribbles: 6, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "21", name: "Jamal", position: "RW", image: "/face.png", goals: 0, assists: 1, chances: 4, dribbles: 3, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "22", name: "Fola", position: "ST", image: "/face.png", goals: 2, assists: 0, chances: 0, dribbles: 7, duels: 3, interceptions: 5, cleanSheets: 0, distanceCovered: 0,chancesMissed: 3 },
+  { id: "23", name: "Caleb", position: "ST", image: "/face.png", goals: 1, assists: 0, chances: 0, dribbles: 0, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0 ,chancesMissed: 0},
+  { id: "24", name: "Jiga", position: "ST", image: "/face.png", goals: 0, assists: 0, chances: 0, dribbles: 0, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0 ,chancesMissed: 0},
+  { id: "25", name: "Alamin", position: "RW", image: "/face.png", goals: 0, assists: 0, chances: 1, dribbles: 6, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0 ,chancesMissed: 3},
+  { id: "26", name: "Big Favour", position: "DM", image: "/face.png", goals: 4, assists: 2, chances: 10, dribbles: 2, duels: 15, interceptions: 9, cleanSheets: 0, distanceCovered: 0,chancesMissed: 1 },
+  { id: "27", name: "Ola", position: "RW", image: "/face.png", goals: 1, assists: 1, chances: 0, dribbles: 5, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+ 
+]
