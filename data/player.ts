@@ -22,7 +22,7 @@ export const players: Player[] = [
   { id: "19", name: "Dark Michael", position: "RW", image: "/face.png", goals: 0, assists: 0, chances: 4, dribbles: 3, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 1 },
   { id: "20", name: "Joseph", position: "LW", image: "/face.png", goals: 2, assists: 1, chances: 2, dribbles: 5, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
   { id: "21", name: "Jamal", position: "RW", image: "/face.png", goals: 0, assists: 1, chances: 4, dribbles: 3, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
-  { id: "22", name: "Fola", position: "ST", image: "/face.png", goals: 4, assists: 0, chances: 0, dribbles: 7, duels: 3, interceptions: 5, cleanSheets: 0, distanceCovered: 0,chancesMissed: 3 },
+  { id: "22", name: "Fola", position: "ST", image: "/face.png", goals: 4, assists: 0, chances: 0, dribbles: 7, duels: 5, interceptions: 5, cleanSheets: 0, distanceCovered: 0,chancesMissed: 3 },
   { id: "23", name: "Caleb", position: "ST", image: "/face.png", goals: 1, assists: 0, chances: 0, dribbles: 0, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0 ,chancesMissed: 0},
   { id: "24", name: "Jiga", position: "ST", image: "/face.png", goals: 0, assists: 0, chances: 0, dribbles: 0, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0 ,chancesMissed: 0},
   { id: "25", name: "Alamin", position: "RW", image: "/face.png", goals: 0, assists: 0, chances: 1, dribbles: 6, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0 ,chancesMissed: 3},
