@@ -8,7 +8,7 @@ export const players: Player[] = [
   { id: "5", name: "Israel", position: "RB", image: "/face.png", goals: 0, assists: 0, chances: 0, dribbles: 2, duels: 15, interceptions: 8, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
   { id: "6", name: "Joe", position: "DM", image: "/face.png", goals: 2, assists: 0, chances: 5, dribbles: 3, duels: 15, interceptions: 20, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
   { id: "7", name: "Fair Michael", position: "AM", image: "/face.png", goals: 1, assists: 4, chances: 9, dribbles: 10, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 2 },
-  { id: "8", name: "Clintoma", position: "AM", image: "/face.png", goals: 1, assists: 1, chances: 0, dribbles: 12, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "8", name: "Clintoma", position: "AM", image: "/face.png", goals: 1, assists: 1, chances: 0, dribbles: 20, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
   { id: "9", name: "Chuks", position: "RW", image: "/face.png", goals: 0, assists: 3, chances: 0, dribbles: 3, duels: 2, interceptions: 4, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
   { id: "10", name: "Somkene", position: "LW", image: "/face.png", goals: 3, assists: 2, chances: 11, dribbles: 15, duels: 5, interceptions: 10, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
   { id: "11", name: "Bayo", position: "ST", image: "/face.png", goals: 3, assists: 6, chances: 9, dribbles: 5, duels: 1, interceptions: 5, cleanSheets: 0, distanceCovered: 0,chancesMissed: 7 },
