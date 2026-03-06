@@ -14,7 +14,7 @@ export const players: Player[] = [
   { id: "11", name: "Bayo", position: "ST", image: "/face.png", goals: 3, assists: 6, chances: 9, dribbles: 5, duels: 1, interceptions: 5, cleanSheets: 0, distanceCovered: 0,chancesMissed: 7 },
   { id: "12", name: "Palazoo", position: "ST", image: "/face.png", goals: 2, assists: 0, chances: 0, dribbles: 0, duels: 7, interceptions: 10, cleanSheets: 0, distanceCovered: 0,chancesMissed: 3 },
   { id: "13", name: "Fadululahi", position: "CB", image: "/face.png", goals: 0, assists: 0, chances: 0, dribbles: 2, duels: 15, interceptions: 13, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
-  { id: "14", name: "Chudi", position: "CB", image: "/face.png", goals: 0, assists: 0, chances: 0, dribbles: 5, duels: 4, interceptions: 8, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
+  { id: "14", name: "Chudi", position: "CB", image: "/face.png", goals: 0, assists: 0, chances: 0, dribbles: 5, duels: 4, interceptions: 12, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
   { id: "15", name: "Molabo", position: "LB", image: "/face.png", goals: 1, assists: 0, chances: 0, dribbles: 8, duels: 5, interceptions: 8, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
   { id: "16", name: "Kingsley", position: "RB", image: "/face.png", goals: 0, assists: 0, chances: 4, dribbles: 4, duels: 5, interceptions: 4, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
   { id: "17", name: "Izzyace", position: "AM", image: "/face.png", goals: 6, assists: 0, chances: 10, dribbles: 4, duels: 5, interceptions: 9, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
