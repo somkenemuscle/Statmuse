@@ -28,5 +28,5 @@ export const players: Player[] = [
   { id: "25", name: "Alamin", position: "RW", image: "/face.png", goals: 0, assists: 0, chances: 1, dribbles: 6, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0 ,chancesMissed: 3},
   { id: "26", name: "Big Favour", position: "DM", image: "/face.png", goals: 4, assists: 2, chances: 10, dribbles: 2, duels: 15, interceptions: 9, cleanSheets: 0, distanceCovered: 0,chancesMissed: 1 },
   { id: "27", name: "Ola", position: "RW", image: "/face.png", goals: 1, assists: 1, chances: 4, dribbles: 5, duels: 2, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 },
- { id: "27", name: "Rj", position: "CM", image: "/face.png", goals: 0, assists: 1, chances: 0, dribbles: 0, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 }
+ { id: "27", name: "Rj", position: "AM", image: "/face.png", goals: 0, assists: 1, chances: 0, dribbles: 0, duels: 0, interceptions: 0, cleanSheets: 0, distanceCovered: 0,chancesMissed: 0 }
 ]
